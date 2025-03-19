@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a college student of **Korea Polytechnic** and
 ### 🐬🐬HOBBY🐬🐬
 * 💪health
 * ⚽Sport
-* 📖Watch webtoon
+* 📖Watching webtoon
 
 
 
