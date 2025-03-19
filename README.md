@@ -40,4 +40,8 @@ Welcome to my GitHub profile! I'm a college student of **Korea Polytechnic** and
 ### 😄 Pronouns:
 - He/Him
 
-### ⚡ Fun fact:
+---
+
+## 🎮 Fun Fact
+--
+I like **webtoon** in my free time, especially **fantasy webtoon**. It’s a great way to relax.
