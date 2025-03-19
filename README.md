@@ -2,7 +2,7 @@
 
 🙊 **About Me**
 - 🎓 University student at **Korea Polytechnic of Seoul Gangseo Campus**
-- 🔥 Passionate about **Study**, and **Searching information**
+- 🔥✍🔥 Passionate about **Study**, and **Searching information**
   
 ---
 
@@ -12,13 +12,8 @@ Welcome to my GitHub profile! I'm a college student of **Korea Polytechnic** and
 
 ---
 
-### 🔭 Currently working on:
-- Teaching **Cloud Native Application** development and **Microservices Architecture**.
-- Contributing to open-source projects related to **AI** and **Big Data**.
-- Exploring **Serverless** and **Edge Computing**.
-
 ### 🌱 Currently learning:
-- **AI** and **NLP** advancements (especially **Transformers** & **Hugging Face**).
+- **IntelliJ Idea** and **VMware Workstation Pro**, **VSCodeUserSetup**, **gVim**.
 - Deep dive into **Kubernetes** and **Docker** optimizations.
 
 ### 👯 Looking to collaborate on:
