@@ -18,15 +18,6 @@ Welcome to my GitHub profile! I'm a college student of **Korea Polytechnic** and
 
 ---
 
-### 👯 Looking to collaborate on:
-- **Cloud-Native** solutions and **Microservices** architecture.
-- AI-driven solutions, especially around **LLM** (Large Language Models).
-- Open-source contributions in **Big Data** processing.
-
-### 🤔 Looking for help with:
-- Optimizing **CI/CD pipelines** with **ArgoCD**, **Jenkins**, and **GitHub Actions**.
-- Exploring advanced **Kubernetes** use cases in **Serverless** applications.
-
 ### 💬 Ask me about:
 - **Cloud Native Development**, **Spring Boot**, **Big Data**, and **AI**.
 - Best practices for **Microservices** and **Kubernetes**.
