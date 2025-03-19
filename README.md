@@ -28,14 +28,12 @@ Welcome to my GitHub profile! I'm a college student of **Korea Polytechnic** and
 ---
 
 
-### 💬 Ask me about:
-- **Cloud Native Development**, **Spring Boot**, **Big Data**, and **AI**.
-- Best practices for **Microservices** and **Kubernetes**.
-- Open-source contributions, **DevOps** tools, and **Infrastructure as Code**.
+### 🐬🐬HOBBY🐬🐬
+* 💪health
+* ⚽Sport
+* 📖Watch webtoon
 
-### 📫 How to reach me:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+
 
 ### 😄 Pronouns:
 - He/Him
@@ -44,4 +42,4 @@ Welcome to my GitHub profile! I'm a college student of **Korea Polytechnic** and
 
 ## 🎮 Fun Fact
 --
-I like **webtoon** in my free time, especially **fantasy webtoon**. It’s a great way to relax.
+I like watching **webtoon** in my free time, especially **fantasy webtoon**. It’s a great way to relax.
