@@ -14,7 +14,9 @@ Welcome to my GitHub profile! I'm a college student of **Korea Polytechnic** and
 
 ### 🌱 Currently learning:
 - **IntelliJ Idea** and **VMware Workstation Pro**, **VS Code User Setup**, **gVim**.
-- Deep dive into **Kubernetes** and **Docker** optimizations.
+- I recently entered university and am learning many different things.
+
+---
 
 ### 👯 Looking to collaborate on:
 - **Cloud-Native** solutions and **Microservices** architecture.
