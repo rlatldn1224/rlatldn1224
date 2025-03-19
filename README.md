@@ -1,4 +1,4 @@
-## 👨‍🎓 Siwoo Kim | University student of Big Data
+## 👨‍🎓 Siwoo Kim | University student of Polytechnic
 
 🙊 **About Me**
 - 🎓 University student at **Korea Polytechnic of Seoul Gangseo Campus**
