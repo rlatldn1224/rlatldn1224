@@ -1,4 +1,4 @@
-## 👨‍🎓 Siwoo Kim | University student of Polytechnic
+## 👨‍🎓 Siwoo Kim | University student of Polytechnic University
 
 🙊 **About Me**
 - 🎓 University student at **Korea Polytechnic of Seoul Gangseo Campus**
