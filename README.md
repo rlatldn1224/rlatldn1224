@@ -20,6 +20,14 @@ Welcome to my GitHub profile! I'm a college student of **Korea Polytechnic** and
 
 ---
 
+## 🎯 My Mission & Goals
+
+- **certification**: My goal is to get a "sqld certificate" and an "Information Processing Engineer certificate".
+  
+
+---
+
+
 ### 💬 Ask me about:
 - **Cloud Native Development**, **Spring Boot**, **Big Data**, and **AI**.
 - Best practices for **Microservices** and **Kubernetes**.
