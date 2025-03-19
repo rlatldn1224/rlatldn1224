@@ -7,7 +7,7 @@
   
 ---
 
-- *##🎉🎉🎉🙌🙌🙌 Hi there, I'm Siwoo Kim! 🙌🙌🙌🎉🎉🎉
+- ##🎉🎉🎉🙌🙌🙌 **Hi there, I'm Siwoo Kim! **🙌🙌🙌🎉🎉🎉
 --
 
 Welcome to my GitHub profile! I'm a college student of **Korea Polytechnic** and **Big Data** major,and I still lack knowledge, so I'm trying to get a lot from university. I still feel difficult because there are many things I don't know, but I'm getting more and more fun.
